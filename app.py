@@ -29,7 +29,7 @@ if(app_mode=='Home'):
         "based on key financial and personal details. Using machine learning, we analyze your information and provide "
         "an instant prediction. This tool is designed to assist individuals and financial institutions in making informed "
         "loan decisions quickly and efficiently. Simply enter your details, and let our AI-powered model do the rest!"
-        "This is a Group project created by team members Hari Milan Arora, Himanshu Singh Bisht and Yukta Kakkar"
+        "This is a Group project created by team members Hari Milan Arora, Gulshan Singh, Himanshu Singh Bisht and Yukta Kakkar"
     )
 
     st.write("---")
